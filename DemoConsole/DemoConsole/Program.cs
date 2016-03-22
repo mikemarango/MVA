@@ -11,7 +11,7 @@ namespace DemoConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world");
-            Console.WriteLine("Another line from client");
+            Console.WriteLine("Hello, world. THIS WAS DONE ON THE SERVER via BROWSER");
         }
     }
 }
